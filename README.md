@@ -1,2 +1,3 @@
-# demo--repo
-demo
+# Demo Repository 
+This is a demo git repository.
+
